@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi there, I'm Daniel Romero
 ✔️ Im currently working on my own projects. 👨🏽‍💻<br>✔️ Im looking to collaborate with others developmer. 👨‍💻💻👨‍💻<br>✔️ Im currently learning web development. 📚<br>✔️ Ask me about web design. 💬<br>✔️ Im looking for team working. 💼📊 
 
 
