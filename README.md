@@ -1,4 +1,6 @@
 # Hi there, I'm Daniel Romero
+Software engineer with proficiency in programming languages such as JavaScript and TypeScript, with knowledge in Node.js as well as the use of backend technologies such as Nest.js. Understanding of SQL and NoSQL databases.
+
 ✔️ Im currently working on my own projects. 👨🏽‍💻<br>✔️ Im looking to collaborate with others developmer. 👨‍💻💻👨‍💻<br>✔️ Im currently learning web development. 📚<br>✔️ Ask me about web design. 💬<br>✔️ Im looking for team working. 💼📊 
 
 
