@@ -8,12 +8,6 @@ Software engineer with proficiency in programming languages such as JavaScript a
 ✔️ Ask me about backend development. <br>
 ✔️ I'm looking to work in a team. 
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-romero-4b750323b) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/daromerof) 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/eldante02)
-
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) 
@@ -29,6 +23,11 @@ Software engineer with proficiency in programming languages such as JavaScript a
 <!--![](https://github-readme-stats.vercel.app/api?username=dromerof&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dromerof&theme=tokyonight&hide_border=true)<br/>-->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dromerof&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-romero-4b750323b) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/daromerof) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/eldante02)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
