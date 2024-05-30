@@ -8,7 +8,7 @@ Software engineer with proficiency in programming languages such as JavaScript a
 ✔️ Ask me about backend development. <br>
 ✔️ I'm looking to work in a team. 
 
-### portfolio 
+# Portfolio 
 https://daniel-romero.netlify.app/
 
 # 💻 Tech Stack:
@@ -27,7 +27,7 @@ https://daniel-romero.netlify.app/
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dromerof&theme=tokyonight&hide_border=true)<br/>-->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dromerof&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### Let's connect!
+## Let's connect!
 I'm always looking for new opportunities to collaborate and learn. Feel free to send me a message to connect.
 
 ## 🌐 Socials:
