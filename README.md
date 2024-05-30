@@ -8,6 +8,9 @@ Software engineer with proficiency in programming languages such as JavaScript a
 ✔️ Ask me about backend development. <br>
 ✔️ I'm looking to work in a team. 
 
+### portfolio 
+https://daniel-romero.netlify.app/
+
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) 
@@ -23,6 +26,9 @@ Software engineer with proficiency in programming languages such as JavaScript a
 <!--![](https://github-readme-stats.vercel.app/api?username=dromerof&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dromerof&theme=tokyonight&hide_border=true)<br/>-->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dromerof&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+### Let's connect!
+I'm always looking for new opportunities to collaborate and learn. Feel free to send me a message to connect.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-romero-4b750323b) 
